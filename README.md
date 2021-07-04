@@ -1,0 +1,1 @@
+# Analise_temperatura_motor_eletrico
